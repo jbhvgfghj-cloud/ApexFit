@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse AI",
+  "description": "AI-Powered Health & Fitness platform with AI Food Scanner, AI Rep Counter, Step Tracker, Calorie Tracking, Diet Generator, and 24/7 AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
